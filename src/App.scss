@@ -210,3 +210,10 @@ html {
 *::after {
   box-sizing: border-box;
 }
+
+.wrapper {
+  width: 100%;
+  max-width: 1350px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
