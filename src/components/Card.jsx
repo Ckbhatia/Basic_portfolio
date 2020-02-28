@@ -28,9 +28,15 @@ export default function Card({ data }) {
             <span className="card-tech-text">{technologies}</span>
           </div>
           <div className="card-btn-container">
-            <a role="button" href={liveUrl} className="card-live-btn card-btn">
-              Live
-            </a>
+            {liveUrl.length > 0 && (
+              <a
+                role="button"
+                href={liveUrl}
+                className="card-live-btn card-btn"
+              >
+                Live
+              </a>
+            )}
             <a role="button" href={hostUrl} className="card-host-btn card-btn">
               {projectHost}
             </a>
@@ -58,6 +64,12 @@ const CardContainer = styled.div`
     display: grid;
     grid-template-columns: 50% 50%;
     grid-gap: 3rem;
+  }
+
+  .card-img-container {
+    -webkit-box-shadow: 0px 0px 12px 2px rgba(125, 123, 125, 1);
+    -moz-box-shadow: 0px 0px 12px 2px rgba(125, 123, 125, 1);
+    box-shadow: 0px 0px 12px 2px rgba(125, 123, 125, 1);
   }
 
   .card-info-container {
