@@ -1,0 +1,187 @@
+{
+  "skills": [
+    "React",
+    "Redux",
+    "ExpressJs",
+    "HTML5",
+    "JavaScript",
+    "NodeJs",
+    "CSS3",
+    "MongoDB",
+    "Mongoose",
+    "jQuery",
+    "Python",
+    "Gulp",
+    "Webpack",
+    "CSS Grid",
+    "Flex box",
+    "Sass",
+    "Git",
+    "Github",
+    "Bootstrap 4",
+    "Jasmine Testing",
+    "Heroku",
+    "AWS",
+    "Graphql",
+    "Service Worker",
+    "HTML Canvas",
+    "styled-components"
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Ck Gatsby blog",
+      "imgUrl": "https://i.imgur.com/ryfgmNN.png",
+      "description": "This is a beautiful and featureful gatsby blog starter for writers. I have built this blog starter intending to give more features with a beautiful look. I learned to build gatsby apps and a little bit graphql.",
+      "technologies": "Gatsby, graphql, styled-components, sass, and react icons",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Ck-gatsby-blog",
+      "liveUrl": "https://chetanblog.netlify.com/"
+    },
+    {
+      "id": 2,
+      "name": "InstaAds - An advertisement platform for businesses",
+      "imgUrl": "https://i.imgur.com/IamBQXS.png",
+      "description": "It is my first freelance project that is in production now. It is a collab project of two guys where I was responsible for building the Back End of this app. I have used Express and MongoDB.",
+      "technologies": "Express, MongoDB, React, Ant design, and styled-components",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/PrateekCodes/InstaAds",
+      "liveUrl": "https://y4ia.org/"
+    },
+    {
+      "id": 3,
+      "name": "Galaxy - Application Management System",
+      "imgUrl": "https://i.imgur.com/Uc9LcHS.png",
+      "description": "It is a throw back to AltCampus. We have built an Altcampus application management system. It is a project of 5 collaborators, where I mostly worked as a navigator to help in developing Back End APIs, some small dashboard features with redux implementation and fixing bugs. This app is in production now. You can take experience.",
+      "technologies": "Express, React, Redux and Ant design",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/altcampus/orbit",
+      "liveUrl": "http://galaxy.altcampus.xyz/"
+    },
+    {
+      "id": 4,
+      "name": "Top blog - Fully functional blog app for writers and readers",
+      "imgUrl": "https://i.imgur.com/5PQgfCk.png",
+      "description": "Sharing knowledge by creativity has a huge impact on the community. It is the best thing one should do. I have built this app to aid people to share their knowledge with the creativity of writing skills. People can create an account and start writing and reading blogs from anywhere in the globe. By developing this app, I got the hands-on experience of building full-stack apps. It doesn’t only deliver an amazing experience but also delivers wonderful UX. I learned about some new techniques to overcome some issues.",
+      "technologies": "ReactJS, ExpressJs, CSS grids and styled-components etc.",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Chetanbhatiapro/Top_blog",
+      "liveUrl": "https://top-blog.netlify.com"
+    },
+    {
+      "id": 5,
+      "name": "Neighborhood Map",
+      "imgUrl": "https://i.imgur.com/whM6lKt.png",
+      "description": "This is a Neighborhood map PWA app. It facilitates a user to find neighborhood places. I built this app with Google maps API and Foursquare API. It has a service worker. So, People can use this app even if the device is offline or in low internet connectivity.",
+      "technologies": "React, Google Maps Api, FourSquoure api and Service workers",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Neighborhood-Map-React",
+      "liveUrl": ""
+    },
+    {
+      "id": 6,
+      "name": "E Store - eCommerce platform UI",
+      "imgUrl": "https://i.imgur.com/k45PNZg.png",
+      "description": "It is an eCommerce Front End UI app. People can use this UI for their eCommerce platform instead of building one from scratch. Just needs to replace the dummy data. I learned to build UI with React and context API.",
+      "technologies": "React, Context API, Styled-components and Sass",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/E-store",
+      "liveUrl": "https://e-store.netlify.com"
+    },
+    {
+      "id": 7,
+      "name": "Exercise tracker API",
+      "imgUrl": "https://i.imgur.com/EokfzbA.png",
+      "description": "The exercise tracker is an API that allows a dev to perform CRUD operation without building a separate Back End from scratch. Dev needs to fork and deploy this repo. I learned to create APIs with Express, MongoDB and Mongoose.",
+      "technologies": "Express, MongoDB and Mongoose",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Exercise-tracker-API",
+      "liveUrl": ""
+    },
+    {
+      "id": 8,
+      "name": "Flappy bird",
+      "imgUrl": "https://i.imgur.com/kFQ6IjU.png",
+      "description": "The flappy bird game is one of the fun game. Make a High score and break it in next play. I have tested my new-found knowledge of Object oriented JavaScript and HTML5 Canvas.",
+      "technologies": "javaScript, OOP and HTML5 Canvas",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Flappy_bird",
+      "liveUrl": "https://ckbhatia.github.io/Flappy_bird"
+    },
+    {
+      "id": 9,
+      "name": "MyReads - A book tracking app",
+      "imgUrl": "https://i.imgur.com/ajDZuQP.png",
+      "description": "The book library app that facilitates a user to search and, select and categories books that have read, are currently reading or want to read. I built the functionality of this bookshelf app with react.",
+      "technologies": "React",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/reactnd-myreads",
+      "liveUrl": ""
+    },
+    {
+      "id": 10,
+      "name": "Restaurant Reviews App",
+      "imgUrl": "https://i.imgur.com/QO3RYAK.png",
+      "description": "This is a Restaurant Review App. This app helps us to find the nearest restaurant and see reviews. You can choose a restaurant from a given list and check reviews by clicking the view details button. Also, a map is available to get the location of the selected restaurant. I have made this site a mobile-friendly with implementing accessibility and Service worker for offline support.",
+      "technologies": "Mapbox API, HTML, CSS Grids, A11Y and Service Workers",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/mws-restaurant-stage-1",
+      "liveUrl": "https://ckbhatia.github.io/mws-restaurant-stage-1"
+    },
+    {
+      "id": 11,
+      "name": "Classic Arcade Game",
+      "imgUrl": "https://i.imgur.com/7dSOWu0.png",
+      "description": "An HTML5 Canvas powered video game, developed using the best practices of JavaScript Classes. Let's see how good you are at gaming.",
+      "technologies": "javaScript Classes, HTML5 Canvas",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/frontend-nanodegree-arcade-game",
+      "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
+    },
+    {
+      "id": 12,
+      "name": "Github Battle Royal",
+      "imgUrl": "https://i.imgur.com/aU0aMko.png",
+      "description": "It's a funny Github battle app where a user can enter two Github usernames and click on the battle button to see the result. This is built using vanilla js, CSS and HTML.",
+      "technologies": "javaScript, Github APIs, HTML and CSS",
+      "projectHost": "Codepen",
+      "hostUrl": "https://codepen.io/ckbhatia/pen/eYOzKeM",
+      "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
+    },
+    {
+      "id": 13,
+      "name": "Memory Game",
+      "imgUrl": "https://i.imgur.com/v9vAZXU.png",
+      "description": "It’s a shnazzy, well-designed, feature-packed memory game! I made it live by adding javaScript. I learned to work with DOM and Event listeners with javaScript",
+      "technologies": "JavaScript, HTML and CSS",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/fend-project-memory-game",
+      "liveUrl": "https://github.com/basic_project"
+    },
+    {
+      "id": 14,
+      "name": "Voice Notes - Now write with voice",
+      "imgUrl": "https://i.imgur.com/I2qUvvN.png",
+      "description": "Tired of typing, try this new tool to boost your writing. You need to speak. I will take care to record and convert your voice into text. I have built this fantastic app for writers who are more comfortable with speaking rather than typing.",
+      "technologies": "JavaScript, HTML and CSS",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Voice_notes",
+      "liveUrl": "https://voicenotesapp.netlify.com"
+    },
+    {
+      "id": 15,
+      "name": "RSS Feedreader",
+      "imgUrl": "https://i.imgur.com/sbWnSub.png",
+      "description": "Testing is an important part of the development process and many organizations practice a standard of development known as \"test-driven development\". I wrote the test with jasmine to learn the importance of \"test-driven development\".",
+      "technologies": "Jasmine, JavaScript",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/frontend-nanodegree-feedreader",
+      "liveUrl": ""
+    }
+  ],
+  "social": {
+    "github": "https://github.com/Ckbhatia",
+    "linkedin": "https://www.linkedin.com/in/chetan-kumar86",
+    "twitter": "https://twitter.com/chetanbhatias"
+  }
+}
