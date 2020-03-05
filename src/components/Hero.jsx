@@ -18,19 +18,20 @@ export default function Hero() {
             </div>
             <div className="hero-intro-container">
               <p className="hero-intro-para first">
-                Hi, I am a MERN stack developer. I love to build robust and
-                quality PWA apps that make an impression. I like to learn and be
-                in sync with new technologies.
+                Hi, I am a MERN stack developer. I belong from a non-tech
+                background, and I have a great passion for coding. I love to
+                build robust and quality web apps that make life-simple. I want
+                to be always in sync with the latest technologies and enhance
+                learning.
               </p>
               <p className="hero-intro-para second">
                 I started my journey as Front End developer from Google India
-                scholarship. I learned Full-stack web development and a lot of
-                things here at the AltCampus, located in Dharamshala.
+                scholarship 2K18. I learned Full-stack web development and a lot
+                of things here at the AltCampus, located in Dharamshala, India.
               </p>
               <p className="hero-intro-para third">
-                Now, I am looking forward to making the quality contribution to
-                production level apps and gain experience by working with
-                experienced developers.
+                Now, I am looking forward to work with a great team who is
+                making a change in this era.
               </p>
             </div>
           </Col>
