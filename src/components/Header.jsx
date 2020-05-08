@@ -29,7 +29,7 @@ const Div = styled.div`
   margin: 0 2rem;
   .navbar-main-heading-text {
     font-family: "Roboto", sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     letter-spacing: 0.01rem;
     font-weight: 700;
     .header-portfolio-text {
