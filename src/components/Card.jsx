@@ -9,7 +9,7 @@ export default function Card({ data }) {
     technologies,
     projectHost,
     hostUrl,
-    liveUrl
+    liveUrl,
   } = data;
   return (
     <CardContainer className="project-container">
@@ -74,21 +74,29 @@ const CardContainer = styled.div`
 
   .card-info-container {
     display: grid;
-    grid-template-rows: 60% 15% 10%;
-    grid-gap: 1rem;
+    // grid-template-rows: 60% 15% 10%;
+    grid-template-rows: 80% 10% 10%;
+    grid-row-gap: 1rem;
     padding: 1rem 0;
   }
   .card-para-container {
+    grid-row: 1 / 1;
     width: 90%;
     .card-para-text {
-      font-size: 1rem;
+      font-size: 1.2rem;
       font-weight: 400;
       color: #676767;
       line-height: 1.5;
     }
   }
+  .card-tech-info-container {
+    grid-row: 2 / 2;
+  }
+  .card-btn-container {
+    grid-row: 3 / 3;
+  }
   .card-tech-text {
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
     color: #454444;
   }
@@ -123,7 +131,7 @@ const CardContainer = styled.div`
     }
     .card-info-container {
       text-align: center;
-      grid-template-rows: 50% 20% 15%;
+      // grid-template-rows: 50% 20% 15%;
     }
     .card-para-container {
       width: 100%;
