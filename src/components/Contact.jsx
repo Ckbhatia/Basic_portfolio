@@ -1,4 +1,5 @@
 import React from "react";
+import { social } from "../data/data.json";
 import { FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 import styled from "styled-components";
 
@@ -17,30 +18,21 @@ export default function ContactForm() {
       <div className="contact-social-link-container">
         <ul className="contact-list-container">
           <li className="contact-social-item">
-            <a
-              href="https://github.com/ckbhatia"
-              className="contact-social-link"
-            >
+            <a href={`${social.github}`} className="contact-social-link">
               <span className="contact-social-logo">
                 <FaGithub />
               </span>
             </a>
           </li>
           <li className="contact-social-item">
-            <a
-              href="https://github.com/ckbhatia"
-              className="contact-social-link"
-            >
+            <a href={`${social.linkedin}`} className="contact-social-link">
               <span className="contact-social-logo">
                 <FaLinkedinIn />
               </span>
             </a>
           </li>
           <li className="contact-social-item">
-            <a
-              href="https://github.com/ckbhatia"
-              className="contact-social-link"
-            >
+            <a href={`${social.twitter}`} className="contact-social-link">
               <span className="contact-social-logo">
                 <FaTwitter />
               </span>
