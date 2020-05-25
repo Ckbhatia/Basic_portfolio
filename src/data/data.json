@@ -13,13 +13,13 @@
     "Python",
     "Gulp",
     "Webpack",
-    "CSS Grid",
-    "Flex box",
     "Sass",
     "Git",
     "Github",
     "Bootstrap 4",
-    "Jasmine Testing",
+    "JasmineJs",
+    "Jest",
+    "Mocha",
     "Heroku",
     "AWS",
     "Graphql",
@@ -28,68 +28,78 @@
     "styled-components"
   ],
   "projects": [
-    {
+      {
       "id": 1,
-      "name": "Ck Gatsby blog",
-      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873169/portfolio/qix6tuzjjtcicorett4c.png",
-      "description": "This is a beautiful and featureful gatsby blog starter for writers. I have built this blog starter intending to give more features with a beautiful look. I learned to build gatsby apps and a little bit graphql.",
-      "technologies": "Gatsby, graphql, styled-components, sass, and react icons",
+      "name": "Ck newsletter",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1590397380/portfolio/s7iav1s5jbaz7ttvf7xq.png",
+      "description": "This is a newsletter service that aims to aid small and mid-sized bloggers. It automates the process of keeping subscribers in sync with the latest articles. Blogger can start using this service by just minimal one-time setup.",
+      "technologies": "NodeJs, ExpressJs, ReactJs, MongooseJs, Styled-Components, Webpack",
       "projectHost": "Github",
-      "hostUrl": "https://github.com/Ckbhatia/Ck-gatsby-blog",
-      "liveUrl": "https://chetanblog.netlify.com/"
+      "hostUrl": "https://github.com/Ckbhatia/ck_newsletter",
+      "liveUrl": "https://cknewsletter.netlify.com"
     },
     {
       "id": 2,
+      "name": "Ck Gatsby blog",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873169/portfolio/qix6tuzjjtcicorett4c.png",
+      "description": "This is a beautiful and featureful gatsby blog starter for writers. I have built this blog starter intending to give more features with a beautiful look that makes it different from other available",
+      "technologies": "Gatsby, Graphql, Styled-components, Sass, React icons",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/Ck-gatsby-blog",
+      "liveUrl": "https://chetanblog.netlify.com"
+    },
+    {
+      "id": 3,
       "name": "InstaAds - An advertisement platform for businesses",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873236/portfolio/k1nrdu0ldk2hg0jumue3.png",
-      "description": "It is my first freelance project that is in production now. It is a collab project of two guys where I was responsible for building the Back End of this app. I have used Express and MongoDB.",
+      "description": "This is an advertisement B2B platform. It allows to businessmen to post about their business on this platform to increase the reach of their business and products. It's built in collaboration.",
       "technologies": "Express, MongoDB, React, Ant design, and styled-components",
       "projectHost": "Github",
       "hostUrl": "https://github.com/PrateekCodes/InstaAds",
       "liveUrl": "https://y4ia.org/"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Galaxy - Application Management System",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873277/portfolio/uv7cbn8twekyeybswqju.png",
-      "description": "It is a throw back to AltCampus. We have built an Altcampus application management system. It is a project of 5 collaborators, where I mostly worked as a navigator to help in developing Back End APIs, some small dashboard features with redux implementation and fixing bugs. This app is in production now. You can take experience.",
-      "technologies": "Express, React, Redux and Ant design",
+      "description": "It is a throwback to AltCampus. I have built this Application Management System with my team of 5 developers. I was responsible for building the server to power application. This is a fantastic real-world app",
+      "technologies": "NodeJs, ExpresJs, ReactJs, Redux, Ant design, MongoDB, MongooseJs",
       "projectHost": "Github",
       "hostUrl": "https://github.com/altcampus/orbit",
-      "liveUrl": "http://galaxy.altcampus.xyz/"
+      "liveUrl": "http://galaxy.altcampus.xyz"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Top blog - Fully functional blog app for writers and readers",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873290/portfolio/crdovbut4ds57pnf8ieg.png",
-      "description": "Sharing knowledge by creativity has a huge impact on the community. It is the best thing one should do. I have built this app to aid people to share their knowledge with the creativity of writing skills. People can create an account and start writing and reading blogs from anywhere in the globe. By developing this app, I got the hands-on experience of building full-stack apps. It doesn’t only deliver an amazing experience but also delivers wonderful UX. I learned about some new techniques to overcome some issues.",
+      "description": "Sharing knowledge with creativity has a huge impact on the community. It is the best thing one writer should do. I have built this app to help bloggers to share their knowledge with the creativity of writing skills. I have developed this Full Stack Web App to facilitate bloggers.",
       "technologies": "ReactJS, ExpressJs, CSS grids and styled-components etc.",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Chetanbhatiapro/Top_blog",
       "liveUrl": "https://top-blog.netlify.com"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Neighborhood Map",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873304/portfolio/r4404ftuyay5aqzzo9jj.png",
       "description": "This is a Neighborhood map PWA app. It facilitates a user to find neighborhood places. I built this app with Google maps API and Foursquare API. It has a service worker. So, People can use this app even if the device is offline or in low internet connectivity.",
-      "technologies": "React, Google Maps Api, FourSquoure api and Service workers",
+      "technologies": "ReactJS, Google Maps API, FourSquoure API and Service workers",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/Neighborhood-Map-React",
       "liveUrl": ""
     },
     {
-      "id": 6,
+      "id": 7,
       "name": "City Bazzar - eCommerce platform",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588874473/portfolio/knrzqik9xdyjsyktoujl.jpg",
-      "description": "It is an eCommerce app. I developed this platform for people to use for their daily grocery orders in COVID-19 lock-down.",
+      "description": "It is an eCommerce app. I had launched this service to help people to order daily groceries in COVID-19 pandemic. I received a great positive response and feedback from people. I learned to run a small business and learned how to deal with obstacles",
       "technologies": "React, Context API, Styled-components and Sass",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/E-store",
       "liveUrl": "https://e-store.netlify.com"
     },
     {
-      "id": 7,
+      "id": 8,
       "name": "Exercise tracker API",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873319/portfolio/cokdsf5xzayn7sr2en0d.png",
       "description": "The exercise tracker is an API that allows a dev to perform CRUD operation without building a separate Back End from scratch. Dev needs to fork and deploy this repo. I learned to create APIs with Express, MongoDB and Mongoose.",
@@ -99,7 +109,7 @@
       "liveUrl": ""
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Flappy bird",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873332/portfolio/osglmkzz4riedhyj63fn.png",
       "description": "The flappy bird game is one of the fun game. Make a High score and break it in next play. I have tested my new-found knowledge of Object oriented JavaScript and HTML5 Canvas.",
@@ -109,74 +119,64 @@
       "liveUrl": "https://ckbhatia.github.io/Flappy_bird"
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "MyReads - A book tracking app",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873348/portfolio/wwdg7l2dchvekx7dyiuq.png",
-      "description": "The book library app that facilitates a user to search and, select and categories books that have read, are currently reading or want to read. I built the functionality of this bookshelf app with react.",
-      "technologies": "React",
+      "description":  "The flappy bird game is one of the funny game. Make a High score and break it in next play, Or you might not able to break the last high score. This app is built with Object-oriented JavaScript and HTML5 Canvas",
+      "technologies": "ReactJS, React-Router",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/reactnd-myreads",
       "liveUrl": ""
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Restaurant Reviews App",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873358/portfolio/gdejrim5n0bpiauqmepv.png",
-      "description": "This is a Restaurant Review App. This app helps us to find the nearest restaurant and see reviews. You can choose a restaurant from a given list and check reviews by clicking the view details button. Also, a map is available to get the location of the selected restaurant. I have made this site a mobile-friendly with implementing accessibility and Service worker for offline support.",
+      "description": "The book library app that facilitates a user to perform a search, select and categorise books in 'have to read', 'are currently reading' or 'want to read'. I developed the functionalities of this app.",
       "technologies": "Mapbox API, HTML, CSS Grids, A11Y and Service Workers",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/mws-restaurant-stage-1",
       "liveUrl": "https://ckbhatia.github.io/mws-restaurant-stage-1"
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Classic Arcade Game",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873369/portfolio/y5f3gby0hppfy5b1hwcb.png",
-      "description": "An HTML5 Canvas powered video game, developed using the best practices of JavaScript Classes. Let's see how good you are at gaming.",
+      "description": "An HTML Canvas powered basic video game. This game is built atop object-oriented javaScript. Let's see, how good are you at gaming.",
       "technologies": "javaScript Classes, HTML5 Canvas",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/frontend-nanodegree-arcade-game",
       "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Github Battle Royal",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873380/portfolio/l7eusqkh0dzozzrpysuf.png",
-      "description": "It's a funny Github battle app where a user can enter two Github usernames and click on the battle button to see the result. This is built using vanilla js, CSS and HTML.",
+      "description": "It's a funny Github battle app where a user needs to enter two Github usernames and click on the battle button. It will show the warrior. It compares users Github profile to show the result",
       "technologies": "javaScript, Github APIs, HTML and CSS",
       "projectHost": "Codepen",
       "hostUrl": "https://codepen.io/ckbhatia/pen/eYOzKeM",
       "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Memory Game",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873405/portfolio/kxywva2t6hkaphkwksvo.png",
-      "description": "It’s a shnazzy, well-designed, feature-packed memory game! I made it live by adding javaScript. I learned to work with DOM and Event listeners with javaScript",
+      "description": "A shnazzy, well-designed, feature-packed memory game! I have built this game to refresh your memories.",
       "technologies": "JavaScript, HTML and CSS",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/fend-project-memory-game",
       "liveUrl": "https://github.com/basic_project"
     },
     {
-      "id": 14,
+      "id": 16,
       "name": "Voice Notes - Now write with voice",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873420/portfolio/zsnva1krtamea49edpvv.png",
-      "description": "Tired of typing, try this new tool to boost your writing. You need to speak. I will take care to record and convert your voice into text. I have built this fantastic app for writers who are more comfortable with speaking rather than typing.",
+      "description": "Tired of typing, try this new tool to boost your productivity while writing. You need to speak what you type. It will take care to record and convert your voice into text. I have built this fantastic app for writers who are more comfortable with speaking.",
       "technologies": "JavaScript, HTML and CSS",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/Voice_notes",
       "liveUrl": "https://voicenotesapp.netlify.com"
-    },
-    {
-      "id": 15,
-      "name": "RSS Feedreader",
-      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873436/portfolio/msnzjhbsk7mzftwqf8ja.png",
-      "description": "Testing is an important part of the development process and many organizations practice a standard of development known as \"test-driven development\". I wrote the test with jasmine to learn the importance of \"test-driven development\".",
-      "technologies": "Jasmine, JavaScript",
-      "projectHost": "Github",
-      "hostUrl": "https://github.com/Ckbhatia/frontend-nanodegree-feedreader",
-      "liveUrl": ""
     }
   ],
   "social": {
