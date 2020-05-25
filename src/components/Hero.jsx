@@ -18,20 +18,20 @@ export default function Hero() {
             </div>
             <div className="hero-intro-container">
               <p className="hero-intro-para first">
-                Hi, I am a MERN stack developer. I belong from a non-tech
-                background, and I have a great passion for coding. I love to
-                build robust and quality web apps that make life-simple. I want
-                to be always in sync with the latest technologies and enhance
-                learning.
+                Hi, I am a self-taught Full-stack developer. 
+                I have a passion to build robust and quality web apps that makes people lives easy.
+                Love for coding keeps me motivated towards learning.
               </p>
               <p className="hero-intro-para second">
-                I started my journey as Front End developer from Google India
-                scholarship 2K18. I learned Full-stack web development and a lot
-                of things here at the AltCampus, located in Dharamshala, India.
+                I had started my journey to code when I got the Google India Scholarship 2k18
+                <br />
+                My interest to learn Full Stack web development led me to join AltCampus Bootcamp.
+                Learned too many things apart from just coding here, such as, “learned how to learn”, communication, collaboration, 
+                and living In the community to name a few.
               </p>
               <p className="hero-intro-para third">
-                Now, I am looking forward to work with a great team who is
-                making a change in this era.
+               Now, I am looking forward to working with a team of ambitious 
+               folks who are striving to do something different and amazing.
               </p>
             </div>
           </Col>
