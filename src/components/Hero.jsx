@@ -71,5 +71,7 @@ const HeroContainer = styled.div`
     color: #3d3d3b;
     font-size: 1.4rem;
     font-weight: 400;
+    margin-top: 0.5rem; 
+    margin-bottom: 0.8rem; 
   }
 `;
