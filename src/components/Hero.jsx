@@ -30,6 +30,12 @@ export default function Hero() {
                 and living In the community to name a few.
               </p>
               <p className="hero-intro-para third">
+                I spend my free time to contribute to Open Source Projects and StackOverflow that help me to grow a better developer.
+              </p>
+              <p className="hero-intro-para fourth">
+              I have proficient hands-on experience of building Full Stack apps, includes useful personal and freelance apps.
+              </p>
+              <p className="hero-intro-para fifth">
                Now, I am looking forward to working with a team of ambitious 
                folks who are striving to do something different and amazing.
               </p>
