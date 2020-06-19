@@ -36,7 +36,7 @@
       "technologies": "NodeJs, ExpressJs, ReactJs, MongooseJs, Styled-Components, Webpack",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/ck_newsletter",
-      "liveUrl": "https://cknewsletter.netlify.com"
+      "liveUrl": "https://cknewsletter.herokuapp.com"
     },
     {
       "id": 2,
@@ -96,7 +96,7 @@
       "technologies": "React, Context API, Styled-components and Sass",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/E-store",
-      "liveUrl": "https://e-store.netlify.com"
+      "liveUrl": "https://citybazzar.com"
     },
     {
       "id": 8,
@@ -156,7 +156,7 @@
       "technologies": "javaScript, Github APIs, HTML and CSS",
       "projectHost": "Codepen",
       "hostUrl": "https://codepen.io/ckbhatia/pen/eYOzKeM",
-      "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
+      "liveUrl": "https://codepen.io/ckbhatia/full/eYOzKeM"
     },
     {
       "id": 14,
@@ -166,7 +166,7 @@
       "technologies": "JavaScript, HTML and CSS",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/fend-project-memory-game",
-      "liveUrl": "https://github.com/basic_project"
+      "liveUrl": "https://ckbhatia.github.io/fend-project-memory-game"
     },
     {
       "id": 16,
