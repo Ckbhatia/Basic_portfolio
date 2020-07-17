@@ -28,7 +28,7 @@
     "styled-components"
   ],
   "projects": [
-      {
+    {
       "id": 1,
       "name": "Ck newsletter",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1590397380/portfolio/s7iav1s5jbaz7ttvf7xq.png",
@@ -70,6 +70,56 @@
     },
     {
       "id": 5,
+      "name": "Testing Isomorphic react app",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594961794/portfolio/bilzpkndneiughutcxug.png",
+      "description": "This app is built using the test-driven development approach. I have written tests with Jest for this Isomorphic react app.",
+      "technologies": "React, Jest",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/isomorphic-react",
+      "liveUrl": ""
+    },
+    {
+      "id": 6,
+      "name": "Time tracker app",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594960909/portfolio/repmz7u43cfl9sg2nei6.png",
+      "description": "This react web app offers features like record the start time and end time of a task with a tag. This app built using React, Apollo Client, and Graphql to interact with the server.",
+      "technologies": "ReactJs, Apollo client, Graphql, Material UI",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/time-tracker",
+      "liveUrl": "reacttimetracker.netlify.app"
+    },
+    {
+      "id": 7,
+      "name": "Cknewsletter_hook npm package",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594960402/portfolio/vaa26mubejwkjiqhqnkw.png",
+      "description": "A package to help CK newsletter service users to use two methods to make requests on cknewsletter.tech for subscribing and pushing slug or item id.",
+      "technologies": "javaScript",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/ck_newsletter",
+      "liveUrl": "https://cknewsletter.herokuapp.com"
+    },
+    {
+      "id": 8,
+      "name": "Hasura GraphQl Engine - Open Source contribution",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594986504/portfolio/ajuauwmwg7d4irf09e2i.png",
+      "description": "This is an open-source product that connects to your databases and services and gives you a realtime GraphQL API, instantly. I have added missing examples to API docs.",
+      "technologies": "markdown",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/hasura/graphql-engine",
+      "liveUrl": "https://hasura.io/docs/1.0/graphql/manual/api-reference/schema-metadata-api/permission.html#drop-insert-permission"
+    },
+    {
+      "id": 9,
+      "name": "MERN - Open Source contribution",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594986666/portfolio/zisduxky8znsabzumqr2.png",
+      "description": "This is boilerplate for MERN stack with integrations like Redux and SSR. I have added webpack files to the webback directory.",
+      "technologies": "webpack",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/anikethsaha/mern",
+      "liveUrl": ""
+    },
+    {
+      "id": 10,
       "name": "Top blog - Fully functional blog app for writers and readers",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873290/portfolio/crdovbut4ds57pnf8ieg.png",
       "description": "Sharing knowledge with creativity has a huge impact on the community. It is the best thing one writer should do. I have built this app to help bloggers to share their knowledge with the creativity of writing skills. I have developed this Full Stack Web App to facilitate bloggers.",
@@ -79,7 +129,7 @@
       "liveUrl": "https://top-blog.netlify.com"
     },
     {
-      "id": 6,
+      "id": 11,
       "name": "Neighborhood Map",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873304/portfolio/r4404ftuyay5aqzzo9jj.png",
       "description": "This is a Neighborhood map PWA app. It facilitates a user to find neighborhood places. I built this app with Google maps API and Foursquare API. It has a service worker. So, People can use this app even if the device is offline or in low internet connectivity.",
@@ -89,7 +139,7 @@
       "liveUrl": ""
     },
     {
-      "id": 7,
+      "id": 12,
       "name": "City Bazzar - eCommerce platform",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588874473/portfolio/knrzqik9xdyjsyktoujl.jpg",
       "description": "It is an eCommerce app. I had launched this service to help people to order daily groceries in COVID-19 pandemic. I received a great positive response and feedback from people. I learned to run a small business and learned how to deal with obstacles",
@@ -99,7 +149,7 @@
       "liveUrl": "https://citybazzar.com"
     },
     {
-      "id": 8,
+      "id": 13,
       "name": "Exercise tracker API",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873319/portfolio/cokdsf5xzayn7sr2en0d.png",
       "description": "The exercise tracker is an API that allows a dev to perform CRUD operation without building a separate Back End from scratch. Dev needs to fork and deploy this repo. I learned to create APIs with Express, MongoDB and Mongoose.",
@@ -109,7 +159,7 @@
       "liveUrl": ""
     },
     {
-      "id": 9,
+      "id": 14,
       "name": "Flappy bird",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873332/portfolio/osglmkzz4riedhyj63fn.png",
       "description": "The flappy bird game is one of the fun game. Make a High score and break it in next play. I have tested my new-found knowledge of Object oriented JavaScript and HTML5 Canvas.",
@@ -119,17 +169,17 @@
       "liveUrl": "https://ckbhatia.github.io/Flappy_bird"
     },
     {
-      "id": 10,
+      "id": 15,
       "name": "MyReads - A book tracking app",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873348/portfolio/wwdg7l2dchvekx7dyiuq.png",
-      "description":  "The flappy bird game is one of the funny game. Make a High score and break it in next play, Or you might not able to break the last high score. This app is built with Object-oriented JavaScript and HTML5 Canvas",
+      "description": "The flappy bird game is one of the funny game. Make a High score and break it in next play, Or you might not able to break the last high score. This app is built with Object-oriented JavaScript and HTML5 Canvas",
       "technologies": "ReactJS, React-Router",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/reactnd-myreads",
       "liveUrl": ""
     },
     {
-      "id": 11,
+      "id": 16,
       "name": "Restaurant Reviews App",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873358/portfolio/gdejrim5n0bpiauqmepv.png",
       "description": "The book library app that facilitates a user to perform a search, select and categorise books in 'have to read', 'are currently reading' or 'want to read'. I developed the functionalities of this app.",
@@ -139,7 +189,7 @@
       "liveUrl": "https://ckbhatia.github.io/mws-restaurant-stage-1"
     },
     {
-      "id": 12,
+      "id": 17,
       "name": "Classic Arcade Game",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873369/portfolio/y5f3gby0hppfy5b1hwcb.png",
       "description": "An HTML Canvas powered basic video game. This game is built atop object-oriented javaScript. Let's see, how good are you at gaming.",
@@ -149,7 +199,7 @@
       "liveUrl": "https://ckbhatia.github.io/frontend-nanodegree-arcade-game"
     },
     {
-      "id": 13,
+      "id": 18,
       "name": "Github Battle Royal",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873380/portfolio/l7eusqkh0dzozzrpysuf.png",
       "description": "It's a funny Github battle app where a user needs to enter two Github usernames and click on the battle button. It will show the warrior. It compares users Github profile to show the result",
@@ -159,7 +209,7 @@
       "liveUrl": "https://codepen.io/ckbhatia/full/eYOzKeM"
     },
     {
-      "id": 14,
+      "id": 19,
       "name": "Memory Game",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873405/portfolio/kxywva2t6hkaphkwksvo.png",
       "description": "A shnazzy, well-designed, feature-packed memory game! I have built this game to refresh your memories.",
@@ -169,7 +219,7 @@
       "liveUrl": "https://ckbhatia.github.io/fend-project-memory-game"
     },
     {
-      "id": 16,
+      "id": 20,
       "name": "Voice Notes - Now write with voice",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873420/portfolio/zsnva1krtamea49edpvv.png",
       "description": "Tired of typing, try this new tool to boost your productivity while writing. You need to speak what you type. It will take care to record and convert your voice into text. I have built this fantastic app for writers who are more comfortable with speaking.",
