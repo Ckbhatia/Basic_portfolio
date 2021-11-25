@@ -36,7 +36,7 @@
       "technologies": "NodeJs, ExpressJs, ReactJs, MongooseJs, Styled-Components, Webpack",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/ck_newsletter",
-      "liveUrl": "https://cknewsletter.herokuapp.com"
+      "liveUrl": "https://cknewsletter.netlify.com/"
     },
     {
       "id": 2,
@@ -86,7 +86,7 @@
       "technologies": "ReactJs, Apollo client, Graphql, Material UI",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/time-tracker",
-      "liveUrl": "reacttimetracker.netlify.app"
+      "liveUrl": "https://reacttimetracker.netlify.app"
     },
     {
       "id": 7,
@@ -95,8 +95,8 @@
       "description": "A package to help CK newsletter service users to use two methods to make requests on cknewsletter.tech for subscribing and pushing slug or item id.",
       "technologies": "javaScript",
       "projectHost": "Github",
-      "hostUrl": "https://github.com/Ckbhatia/ck_newsletter",
-      "liveUrl": "https://cknewsletter.herokuapp.com"
+      "hostUrl": "https://github.com/Ckbhatia/cknewsletter_hook",
+      "liveUrl": "https://www.npmjs.com/package/cknewsletter_hook"
     },
     {
       "id": 8,
@@ -146,7 +146,7 @@
       "technologies": "React, Context API, Styled-components and Sass",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/E-store",
-      "liveUrl": "https://citybazzar.com"
+      "liveUrl": "https://citybazzar.netlify.com/"
     },
     {
       "id": 13,
