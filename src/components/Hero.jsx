@@ -13,31 +13,19 @@ export default function Hero() {
             <div className="hero-intro-header-container">
               <h1 className="hero-intro-heading">I am Chetan Kumar</h1>
               <span className="hero-intro-text">
-                An aspiring quality Full Stack Developer
+                A expert Full Stack Developer with years of experience
               </span>
             </div>
             <div className="hero-intro-container">
               <p className="hero-intro-para first">
                 Hi, I am a self-taught Full-stack developer. 
-                I have a passion to build robust and quality web apps that makes people lives easy.
-                Love for coding keeps me motivated towards learning.
-              </p>
-              <p className="hero-intro-para second">
-                I had started my journey to code when I got the Google India Scholarship 2k18
-                <br />
-                My interest to learn Full Stack web development led me to join AltCampus Bootcamp.
-                Learned too many things apart from just coding here, such as, “learned how to learn”, communication, collaboration, 
-                and living In the community to name a few.
+                I have a passion to build robust and quality products that makes people lives easy.
               </p>
               <p className="hero-intro-para third">
-                I spend my free time to contribute to Open Source Projects and StackOverflow that help me to grow a better developer.
+                I spend free time to learn about entrepreneurship stuff, tools and technologies, contributing to Open Source Projects and StackOverflow.
               </p>
               <p className="hero-intro-para fourth">
-              I have proficient hands-on experience of building Full Stack apps, includes useful personal and freelance apps.
-              </p>
-              <p className="hero-intro-para fifth">
-               Now, I am looking forward to working with a team of ambitious 
-               folks who are striving to do something different and amazing.
+              I have expertise of building Full Stack apps for product companies, contracts, freelance and personal apps.
               </p>
             </div>
           </Col>
