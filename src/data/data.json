@@ -34,9 +34,9 @@
     {
       "id": 1,
       "name": "Time tracker app",
-      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1681817263/ptaqri2xujoc7vfwgkl5.png",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1681818387/portfolio/ni32ytp7g37whfs5kfwz.png",
       "description": "This react web app offers features like record the start time and end time of a task with a tag. This app built using React, Apollo Client, and Graphql to interact with the server.",
-      "technologies": "ReactJs, Apollo client, Graphql, Material UI",
+      "technologies": "ReactJs, Apollo client, Graphql",
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/time-tracker",
       "liveUrl": "https://reacttimetracker.netlify.app"
