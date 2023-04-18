@@ -13,19 +13,28 @@ export default function Hero() {
             <div className="hero-intro-header-container">
               <h1 className="hero-intro-heading">I am Chetan Kumar</h1>
               <span className="hero-intro-text">
-                A expert Full Stack Developer with years of experience
+                A Front End Focused Full Stack Developer with 2 years & 4 months
+                of full-time company experience
               </span>
             </div>
             <div className="hero-intro-container">
               <p className="hero-intro-para first">
-                Hi, I am a self-taught Full-stack developer. 
-                I have a passion to build robust and quality products that makes people lives easy.
+                Shipped features & bug fixes for RazorPay capital - corporate
+                cards, Recorem and Queeery Inc.
+              </p>
+              <p className="hero-intro-para second">
+                Hi, I am a self-taught Front End Focused Full-stack developer. I
+                have a passion to build robust and quality products that makes
+                people lives easy.
               </p>
               <p className="hero-intro-para third">
-                I spend free time to learn about entrepreneurship stuff, tools and technologies, contributing to Open Source Projects and StackOverflow.
+                I spend free time to learn about entrepreneurship stuff, other
+                tools and technologies, contribute to Open Source Projects and
+                StackOverflow.
               </p>
               <p className="hero-intro-para fourth">
-              I have expertise of building Full Stack apps for product companies, contracts, freelance and personal apps.
+                I have expertise of building Full Stack apps for product
+                companies, contracts, freelance and personal apps.
               </p>
             </div>
           </Col>
@@ -59,7 +68,7 @@ const HeroContainer = styled.div`
     color: #3d3d3b;
     font-size: 1.4rem;
     font-weight: 400;
-    margin-top: 0.5rem; 
-    margin-bottom: 0.8rem; 
+    margin-top: 0.5rem;
+    margin-bottom: 0.8rem;
   }
 `;
