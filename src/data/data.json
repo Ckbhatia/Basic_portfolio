@@ -2,6 +2,9 @@
   "skills": [
     "React",
     "Redux",
+    "Zustand",
+    "ReactQuery",
+    "TypeScript",
     "ExpressJs",
     "HTML5",
     "JavaScript",
@@ -30,6 +33,16 @@
   "projects": [
     {
       "id": 1,
+      "name": "Time tracker app",
+      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1681817263/ptaqri2xujoc7vfwgkl5.png",
+      "description": "This react web app offers features like record the start time and end time of a task with a tag. This app built using React, Apollo Client, and Graphql to interact with the server.",
+      "technologies": "ReactJs, Apollo client, Graphql, Material UI",
+      "projectHost": "Github",
+      "hostUrl": "https://github.com/Ckbhatia/time-tracker",
+      "liveUrl": "https://reacttimetracker.netlify.app"
+    },
+    {
+      "id": 2,
       "name": "Ck newsletter",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1590397380/portfolio/s7iav1s5jbaz7ttvf7xq.png",
       "description": "This is a newsletter service that aims to aid small and mid-sized bloggers. It automates the process of keeping subscribers in sync with the latest articles. Blogger can start using this service by just minimal one-time setup.",
@@ -39,7 +52,7 @@
       "liveUrl": "https://cknewsletter.netlify.com/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Ck Gatsby blog",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873169/portfolio/qix6tuzjjtcicorett4c.png",
       "description": "This is a beautiful and featureful gatsby blog starter for writers. I have built this blog starter intending to give more features with a beautiful look that makes it different from other available",
@@ -49,7 +62,7 @@
       "liveUrl": "https://chetanblog.netlify.com"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "InstaAds - An advertisement platform for businesses",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873236/portfolio/k1nrdu0ldk2hg0jumue3.png",
       "description": "This is an advertisement B2B platform. It allows to businessmen to post about their business on this platform to increase the reach of their business and products. It's built in collaboration.",
@@ -59,7 +72,7 @@
       "liveUrl": "https://y4ia.org/"
     },
     {
-      "id": 4,
+      "id": 5,
       "name": "Galaxy - Application Management System",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1588873277/portfolio/uv7cbn8twekyeybswqju.png",
       "description": "It is a throwback to AltCampus. I have built this Application Management System with my team of 5 developers. I was responsible for building the server to power application. This is a fantastic real-world app",
@@ -69,7 +82,7 @@
       "liveUrl": "http://galaxy.altcampus.xyz"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "Testing Isomorphic react app",
       "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594961794/portfolio/bilzpkndneiughutcxug.png",
       "description": "This app is built using the test-driven development approach. I have written tests with Jest for this Isomorphic react app.",
@@ -77,16 +90,6 @@
       "projectHost": "Github",
       "hostUrl": "https://github.com/Ckbhatia/isomorphic-react",
       "liveUrl": ""
-    },
-    {
-      "id": 6,
-      "name": "Time tracker app",
-      "imgUrl": "https://res.cloudinary.com/citybazz/image/upload/v1594960909/portfolio/repmz7u43cfl9sg2nei6.png",
-      "description": "This react web app offers features like record the start time and end time of a task with a tag. This app built using React, Apollo Client, and Graphql to interact with the server.",
-      "technologies": "ReactJs, Apollo client, Graphql, Material UI",
-      "projectHost": "Github",
-      "hostUrl": "https://github.com/Ckbhatia/time-tracker",
-      "liveUrl": "https://reacttimetracker.netlify.app"
     },
     {
       "id": 7,
